@@ -1,0 +1,65 @@
+# Core Development
+1. ES7+ React/Redux/React-Native snippets
+   - Publisher: dsznajder
+   - Provides React snippets and shortcuts
+
+2. TypeScript Importer
+   - Publisher: pmneo
+   - Auto imports for TypeScript
+
+3. Auto Rename Tag
+   - Publisher: Jun Han
+   - Automatically renames paired HTML/JSX tags
+
+4. Bracket Pair Colorizer 2 (or use built-in VS Code bracket colorization)
+   - Publisher: CoenraadS
+   - Colors matching brackets
+
+# Tailwind CSS Support
+5. Tailwind CSS IntelliSense
+   - Publisher: Bradlc
+   - Autocomplete, syntax highlighting for Tailwind
+
+6. PostCSS Language Support
+   - Publisher: csstools
+   - Syntax highlighting for PostCSS
+
+# Code Quality & Formatting
+7. Prettier - Code formatter
+   - Publisher: Prettier
+   - Code formatting
+
+8. ESLint
+   - Publisher: Microsoft
+   - JavaScript/TypeScript linting
+
+# Git Integration
+9. GitLens — Git supercharged
+   - Publisher: GitKraken
+   - Enhanced Git capabilities
+
+# File Management
+10. Auto Import - ES6, TS, JSX, TSX
+    - Publisher: steoates
+    - Automatically imports modules
+
+# Optional but Helpful
+11. Thunder Client
+    - Publisher: RangaVadhineni
+    - API testing (if you add backend features)
+
+12. Live Server
+    - Publisher: Ritwick Dey
+    - Live preview for static files
+
+13. Path Intellisense
+    - Publisher: Christian Kohler
+    - Autocomplete for file paths
+
+14. Material Icon Theme
+    - Publisher: Philipp Kief
+    - Better file icons
+
+15. One Dark Pro
+    - Publisher: binaryify
+    - Popular dark theme

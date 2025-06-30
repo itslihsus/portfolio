@@ -1,0 +1,5 @@
+# Install via VS Code CLI (if you have it installed)
+code --install-extension dsznajder.es7-react-js-snippets
+code --install-extension bradlc.vscode-tailwindcss
+code --install-extension esbenp.prettier-vscode
+code --install-extension dbaeumer.vscode-eslint
